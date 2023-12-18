@@ -1,0 +1,155 @@
+
+*, html, body {
+    margin:  0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    
+  }
+  #logo{
+    font-family: blonde;
+  }
+  .navbar {
+    background: #131212;
+    overflow: hidden;
+    padding-left:5%;
+    width:100%;
+    
+  }
+  
+  .navbar a {
+    
+    background: #131212;
+    overflow: hidden;
+    display:inline-block;
+   
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    font-family: FFF Acid Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+  }
+  
+  
+#word_stuff{
+  margin-bottom:20px;
+}
+#title{
+    margin-top:5%;
+    margin-left:15%;
+    margin-right:15%;
+    font-size:30px;
+
+
+}
+.heading{
+  margin:10px;
+  color: #0E0E0E;
+
+font-family: FFF Acid Grotesk;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.img_subtitle{
+  color: #979696;
+
+font-family: FFF Acid Grotesk;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: 155%; /* 23.25px */
+text-transform: capitalize;
+margin-bottom:30px;
+}
+.date{
+  
+color: #191919;
+
+  font-family: FFF Acid Grotesk;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: capitalize;
+  
+}
+.subtitle{
+  color: #4E4D4D;
+
+font-family: FFF Acid Grotesk;
+font-size: 18px;
+font-style: italic;
+font-weight: 300;
+line-height: 156%; /* 28.08px */
+letter-spacing: 0.9px;
+text-transform: capitalize;
+margin-bottom:26px;
+margin-top:30px;
+}
+
+.author{
+  color: #393737;
+
+font-family: FFF Acid Grotesk;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom:10px;
+}
+p{
+
+  color: #2F2F2F;
+
+font-family: FFF Acid Grotesk;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 155%; /* 32.55px */
+text-indent: 20px
+
+
+}
+.chart{
+
+  margin-top:30px;
+  margin-bottom:60px;
+  width:80%;
+}
+img{
+
+ width:100%;
+}
+p{
+  margin-bottom:30px;
+  margin-top:30px;
+}
+canvas{
+  width:80%;
+}
+footer {
+  background-color: #131212; /* Black background color */
+ 
+  padding: 15px;
+  text-align: center;
+  width: 100%; /* Full width */
+  height:40%;
+  margin: 0 auto; /* Center the footer */
+}
+footer p {
+  margin: 0; /* Remove default margin for the paragraph */
+  background-color: transparent;
+  color:white; /* Set background color to transparent */
+}
+ ul {
+  margin: 0; /* Remove default margin for the paragraph */
+  background-color: black; /* Set background color to transparent */
+}
